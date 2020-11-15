@@ -11,10 +11,14 @@
 
 <details>
   <summary>GitHub Stats</summary>
-    <img align="left" alt="Lauren's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=3ll3rach3l&show_icons=true&theme=nord" />
-  
+    <img align="center" alt="Lauren's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=3ll3rach3l&show_icons=true&theme=nord" />
+</details>
 
-  
+<details>
+  <summary> Most Used Languages</summary>
+
+<img align="left" alt="Laurens's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3ll3rach3l&show_icons=true&theme=nord" />
+
 </details>
 
 
