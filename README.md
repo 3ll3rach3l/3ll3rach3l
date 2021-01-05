@@ -1,8 +1,7 @@
 <img align="center" src="https://github.com/3ll3rach3l/3ll3rach3l/blob/main/images/Rising%20with%20the%20Tide.png" alt="Hero image" width="100%">
 
 - ✍ You can find my projects here: [portfolio]
-- 🌱  I’m currently learning/working on: Data Science
-- 👯  I’m looking to collaborate on fun projects
+- 🌱  I’m currently learning/working on: Data Structures and Algorithms 
 - 💬  Ask me about team building and interpersonal skills!
 - 📫  How to connect with me: 0laurenbeard0@gmail.com
 - 😄  Pronouns: She/Her
